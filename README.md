@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Jeevith K P
 **A passionate DevOps Engineer ||Cloud Enthusiast || Automation Lover**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **jithuacharya77@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** CaterTrack inventory and logistics management system
 - 🌱 **I’m currently learning:** DevOps with AWS
